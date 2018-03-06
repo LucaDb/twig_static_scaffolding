@@ -18,7 +18,7 @@ const postCSSPlugins = [
 ];
 
 gulp.task('styles', () => {
-  return gulp.src([`${path.dev.sass}*.scss`,`${path.dev.html}**/*.scss`])
+  return gulp.src([`${path.dev.sass}**/*.scss`,`${path.dev.html}**/*.scss`])
     .pipe(sourcemaps.init())
     .on('error', ({messageFormatted}) => { error(messageFormatted) })
     .pipe(sass({importer: tildeImporter}))
