@@ -2,7 +2,7 @@ Hello this is a boilerplate for static site genrator using twig.js, scoped css (
 
 ## TL;DR
 
- 1. clone the repo
+ 1. clone repository
  2. install/update [nvm](https://github.com/creationix/nvm) then type `nvm use` to setup node version
  3. `npm i`
  4. `npm run dev`
