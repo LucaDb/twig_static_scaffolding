@@ -38,3 +38,5 @@ This compiles in:
     <header class="header__header___3EXwe">
     ...
     </header>
+
+For all css modules api please reference to [css modules repo](https://github.com/css-modules/css-modules).
