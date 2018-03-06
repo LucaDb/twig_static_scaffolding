@@ -1,4 +1,5 @@
-Hello this is a boilerplate for static site genrator using twig.js, scoped css (cssmodules) live code injection (HTML/CSS)
+Hello,
+this is a boilerplate for static site / frontend generator using twig.js, scoped css (cssmodules) live code injection (HTML/CSS)
 
 ## TL;DR
 
