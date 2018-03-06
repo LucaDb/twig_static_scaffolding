@@ -1,0 +1,47 @@
+{
+    "name": "twig_static_scaffolding",
+    "version": "0.0.1",
+    "description": "Static website generator using twig.js, cssmodules and live markup injection",
+    "main": "index.js",
+    "scripts": {
+        "dev": "gulp",
+        "build": "gulp build",
+        "component": "./bin/component.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:LucaDb/twig_static_scaffolding.git"
+    },
+    "author": "Luca De Blasio",
+    "license": "ISC",
+    "devDependencies": {
+        "ansi-colors": "^1.0.1",
+        "autoprefixer": "^8.1.0",
+        "babel-core": "^6.26.0",
+        "babel-preset-env": "^1.6.1",
+        "babel-register": "^6.26.0",
+        "babelify": "^8.0.0",
+        "browser-sync": "^2.23.6",
+        "browserify": "^16.1.0",
+        "bs-html-injector": "^3.0.3",
+        "del": "^3.0.0",
+        "gulp": "^4.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-htmlmin": "^4.0.0",
+        "gulp-postcss": "^7.0.1",
+        "gulp-sass": "^3.1.0",
+        "gulp-sourcemaps": "^2.6.4",
+        "gulp-twig": "^1.2.0",
+        "gulp-uglify": "^3.0.0",
+        "gulp-uglifycss": "^1.0.9",
+        "node-sass-tilde-importer": "^1.0.1",
+        "postcss-modules": "^1.1.0",
+        "vinyl-buffer": "^1.0.1",
+        "vinyl-source-stream": "^2.0.0",
+        "watchify": "^3.10.0"
+    },
+    "dependencies": {
+        "breakpoint-sass": "^2.7.1",
+        "underscore": "^1.8.3"
+    }
+}
