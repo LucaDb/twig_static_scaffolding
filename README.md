@@ -18,7 +18,7 @@ When you run for example `npm run component -- header` the script creates a fold
         |-- style.scss
 ```
 
-In `style.scss` file you can write scoped css, for example
+In `style.scss` file you can write scoped css, for example:
  
 ```
 .header { 
