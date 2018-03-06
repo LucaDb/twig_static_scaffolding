@@ -39,4 +39,4 @@ This compiles in:
     ...
     </header>
 
-For all css modules api please reference to [css modules repo](https://github.com/css-modules/css-modules).
+For all css modules api please refer to [css modules repo](https://github.com/css-modules/css-modules).
