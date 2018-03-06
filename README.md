@@ -1,6 +1,3 @@
-Hello,
-this is a boilerplate for static site generator using twig.js, scoped css (cssmodules) live code injection (HTML/CSS)
-
 ## TL;DR
 
  1. clone the repo
